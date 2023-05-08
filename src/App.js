@@ -18,7 +18,7 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://www.virtualclinic.mobi/telecareus/frontend/site/login/"
             target="_blank"
             rel="noopener noreferrer"
           >
