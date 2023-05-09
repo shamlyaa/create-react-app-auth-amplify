@@ -14,11 +14,11 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Edit <code>src/App.js</code> 
           </p>
           <a
             className="App-link"
-            href="https://virtualclinic.mobi/telecareus/frontend/site/login/"
+            href="http://3.227.251.87/telecareus/frontend/site/login"
             target="_blank"
             rel="noopener noreferrer"
           >
