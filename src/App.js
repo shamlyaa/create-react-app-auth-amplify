@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
 import Amplify from 'aws-amplify';
@@ -12,17 +11,17 @@ class App extends Component {
       <div className="App">
         <AmplifySignOut />
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+         
           <p>
             Edit <code>src/App.js</code> 
           </p>
           <a
             className="App-link"
-            href="http://3.227.251.87/telecareus/frontend/site/login"
+            href="https://3.227.251.87/telecareus/frontend/site/login"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Login to the Portal
           </a>
         </header>
       </div>
