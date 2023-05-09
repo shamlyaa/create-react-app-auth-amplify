@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
          
           <p>
-            Edit <code>src/App.js</code> 
+            Welcome to Telecareus 
           </p>
           <a
             className="App-link"
