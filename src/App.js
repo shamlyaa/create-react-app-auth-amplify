@@ -17,7 +17,7 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://3.227.251.87/telecareus/frontend/site/login"
+            href="https://44.210.77.84/telecareus/frontend/site/login"
             target="_blank"
             rel="noopener noreferrer"
           >
