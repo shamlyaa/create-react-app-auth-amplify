@@ -26,9 +26,9 @@ class App extends Component {
           </a>
                  <a
             className="App-link"
-            href="   <a
+            <a
             className="App-link"
-            href="https://virtualclinic.mobi/telecareus/frontend/site/login"
+            href="https://waitinroom2.herokuapp.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
