@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
         
           <p>
-            Welcome to Telecareus 
+            Welcome to Telecare Virtual Clinic (TVC)
       
           </p>
           <a
@@ -23,7 +23,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
               
-            Login to the Portal
+            VIDEO CONSULT 
           </a>
              
         </header>
