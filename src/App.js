@@ -21,7 +21,25 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
+              
             Login to the Portal
+          </a>
+                 <a
+            className="App-link"
+            href="   <a
+            className="App-link"
+            href="https://virtualclinic.mobi/telecareus/frontend/site/login"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+              
+            Login to the Portal
+          </a>"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+              
+          Video Appointment
           </a>
         </header>
       </div>
