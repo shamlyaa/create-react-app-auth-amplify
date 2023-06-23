@@ -13,7 +13,7 @@ class App extends Component {
         <header className="App-header">
         
           <p>
-            Welcome to Telecare Virtual Clinic (TVC)
+            Welcome to ValuCare Virtual Clinic (TVC)
       
           </p>
           <a
