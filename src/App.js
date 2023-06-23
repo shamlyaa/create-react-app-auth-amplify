@@ -18,7 +18,7 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://virtualclinic.mobi/telecareus/frontend/site/login"
+            href="https://virtualclinic.mobi/telecarev.php"
             target="_blank"
             rel="noopener noreferrer"
           >
