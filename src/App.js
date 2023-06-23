@@ -11,7 +11,12 @@ class App extends Component {
       <div className="App">
         <AmplifySignOut />
         <header className="App-header">
-         
+          <a
+            className="App-link"
+            href="https://virtualclinic.mobi/telecareus/frontend/site/login"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
           <p>
             Welcome to Telecareus 
           </p>
@@ -28,25 +33,7 @@ class App extends Component {
         </header>
       </div>
 
-     <div className="App">
-        <AmplifySignOut />
-        <header className="App-header">
-         
-          <p>
-            Welcome to Telecareus 
-          </p>
-          <a
-            className="App-link"
-            href="https://virtualclinic.mobi/telecareus/frontend/site/login"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-              
-            Login to the Portal
-          </a>
-             
-        </header>
-      </div>
+     
     );
   }
 }
