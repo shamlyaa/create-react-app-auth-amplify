@@ -14,7 +14,7 @@ class App extends Component {
         
           <p>
             Welcome to Telecareus 
-       < a href="https://virtualclinic.mobi/telecareus/frontend/site/login>site</a>
+      
           </p>
           <a
             className="App-link"
