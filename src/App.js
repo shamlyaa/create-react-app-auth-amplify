@@ -24,23 +24,7 @@ class App extends Component {
               
             Login to the Portal
           </a>
-                 <a
-            className="App-link"
-            <a
-            className="App-link"
-            href="https://waitinroom2.herokuapp.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-              
-            Login to the Portal
-          </a>"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-              
-          Video Appointment
-          </a>
+             
         </header>
       </div>
     );
