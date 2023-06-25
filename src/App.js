@@ -39,7 +39,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Mobile App </a>
+<a href="https://www.carenehr.com/public/signin"> Mobile App </a>
   </h1>
   </button>
   </>
@@ -61,7 +61,8 @@ class App extends Component {
              TELECARE VIRTUAL CLINIC (TVC)
       
           </p>
-          <a
+      <button>    
+      <a
             className="App-link"
             href="https://virtualclinic.mobi/telecarev.php"
             target="_blank"
@@ -70,7 +71,7 @@ class App extends Component {
               
             VIDEO CONSULT 
           </a>
-             
+              </button>  
         </header>
       </div>
 
