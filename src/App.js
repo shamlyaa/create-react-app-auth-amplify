@@ -8,8 +8,9 @@ function MyPortal() {
 return (
 
 <>
-
+<h1>
 <a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Patient </a>
+  </h1>
   </>
   
 );
