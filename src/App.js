@@ -35,7 +35,7 @@ return (
 
 function MyMobile() {
 return (
-<div>
+
 <>
   <button>
 <h1>
@@ -43,7 +43,7 @@ return (
   </h1>
   </button>
   </>
-  </div>
+
 );
   
 }
@@ -58,7 +58,7 @@ class App extends Component {
         <header className="App-header">
         
           <p>
-            Welcome to ValuCare Virtual Clinic (TVC)
+             TELECARE VIRTUAL CLINIC (TVC)
       
           </p>
           <a
