@@ -4,12 +4,23 @@ import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
 import Amplify from 'aws-amplify';
 import aws_exports from './aws-exports';
 Amplify.configure(aws_exports);
+function MyButton() {
+return (
 
+<>
+
+<h1> Make Appointment </h1>
+  </>
+  
+);
+  
+}
 class App extends Component {
   render() {
     return (
       <div className="App">
         <AmplifySignOut />
+      <MyButton />
         <header className="App-header">
         
           <p>
