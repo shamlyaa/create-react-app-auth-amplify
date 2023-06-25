@@ -61,7 +61,7 @@ class App extends Component {
              TELECARE VIRTUAL CLINIC (TVC)
       
           </p>
-      <button>    
+      <h1>
       <a
             className="App-link"
             href="https://virtualclinic.mobi/telecarev.php"
@@ -71,7 +71,7 @@ class App extends Component {
               
             VIDEO CONSULT 
           </a>
-              </button>  
+              </h1>  
         </header>
       </div>
 
