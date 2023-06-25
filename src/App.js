@@ -22,11 +22,28 @@ function MyDoctor() {
 return (
 
 <>
+  <button>
 <h1>
-<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Provider </a>
+<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Doctor </a>
   </h1>
+  </button>
   </>
   
+);
+  
+}
+
+function MyMobile() {
+return (
+<div>
+<>
+  <button>
+<h1>
+<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Mobile App </a>
+  </h1>
+  </button>
+  </>
+  </div>
 );
   
 }
@@ -37,6 +54,7 @@ class App extends Component {
         <AmplifySignOut />
       <MyPortal />
       <MyDoctor />
+      <MyMobile />
         <header className="App-header">
         
           <p>
