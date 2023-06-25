@@ -9,7 +9,7 @@ return (
 
 <>
 
-<h1> Make Appointment </h1>
+<button> Make Appointment </buuton>
   </>
   
 );
