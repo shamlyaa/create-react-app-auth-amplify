@@ -4,12 +4,24 @@ import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
 import Amplify from 'aws-amplify';
 import aws_exports from './aws-exports';
 Amplify.configure(aws_exports);
-function MyButton() {
+function MyPortal() {
 return (
 
 <>
 
-<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> PORTAL </a>
+<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Patient </a>
+  </>
+  
+);
+  
+}
+function MyDoctor() {
+return (
+
+<>
+<h1>
+<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Provider </a>
+  </h1>
   </>
   
 );
@@ -20,7 +32,8 @@ class App extends Component {
     return (
       <div className="App">
         <AmplifySignOut />
-      <MyButton />
+      <MyPortal />
+      <MyDoctor />
         <header className="App-header">
         
           <p>
