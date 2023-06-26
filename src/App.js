@@ -53,7 +53,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Adherence</a>
+<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> RTM</a>
   </h1>
   </button>
   </>
@@ -68,7 +68,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://virtualclinic.mobi/telecareus/frontend/site/appointment"> Appointment </a>
+<a href="https://virtualclinic.mobi/telecareus/frontend/site/appointment"> Telehealth </a>
   </h1>
   </button>
   </>
