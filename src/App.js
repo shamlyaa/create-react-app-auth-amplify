@@ -33,6 +33,20 @@ return (
   
 }
 
+function MyRpm() {
+return (
+
+<>
+  <button>
+<h1>
+<a href="https://portal.remotecarepartners.com/#"> RPM </a>
+  </h1>
+  </button>
+  </>
+
+);
+  
+}
 function MyMobile() {
 return (
 
@@ -71,6 +85,7 @@ class App extends Component {
         <AmplifySignOut />
       <MyPortal />
       <MyDoctor />
+      <MyRpm />
       <MyMobile />
       <MyAppointment />
         <header className="App-header">
