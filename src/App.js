@@ -39,7 +39,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://portal.remotecarepartners.com/#"> RPM </a>
+<a href="https://portal.remotecarepartners.com/#"> RPM/CCM </a>
   </h1>
   </button>
   </>
@@ -53,7 +53,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> RTM</a>
+<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> RTM/TOC</a>
   </h1>
   </button>
   </>
