@@ -53,7 +53,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://virtualclinic.mobi/openemr/interface/login/login.php"> RTM/TOC</a>
+<a https://play.google.com/store/apps/details?id=com.telecareus&hl=en&gl=US"> Android App</a>
   </h1>
   </button>
   </>
@@ -61,15 +61,7 @@ return (
 );
   
 }
-function MyApple(){
-  return (
-    <>
-<br><h4 style="color:black"> Download our Mobile app </h4>
-	<a href="http://107.20.161.100/telemedon.apk">Android<img src="./assets/images/icon-androidBadge.png"></a>
-<a href="http://install.diawi.com/BKR9XW">Apple<img src="./assets/images/icon-appleBadge.png"></a>
-                </>
-          );
-}
+
 
 function MyAppointment() {
 return (
@@ -77,7 +69,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://virtualclinic.mobi/telecareus/frontend/site/appointment"> Telehealth </a>
+<a href="https://apps.apple.com/us/app/telecareus/id6444422512"> Apple App</a>
   </h1>
   </button>
   </>
@@ -97,14 +89,14 @@ class App extends Component {
       <MyRpm />
       <MyMobile />
       <MyAppointment />
-      <MyApple />
+      
         <header className="App-header">
         
           <p>
              TELECARE VIRTUAL CLINIC (TVC)
       
           </p>
-    <MyApple />
+    <MyMobile />
       <h1>
       <a
             className="App-link"
