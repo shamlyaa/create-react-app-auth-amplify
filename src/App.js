@@ -108,7 +108,7 @@ class App extends Component {
       <MyRpm />
       <MyMobile />
       <MyAppointment />
-       </MyRpmvideo />
+       <MyRpmvideo />
         <header className="App-header">
         
           <p>
