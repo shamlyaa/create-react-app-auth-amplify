@@ -11,7 +11,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://telecare.scriptrapps.io/rpmvideo.html"> RPM Overview </a>
+<a href="https://telecare.scriptrapps.io/rpmvideo.html"> RPM Process </a>
   </h1>
   </button>
   </>
@@ -72,7 +72,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://play.google.com/store/apps/details?id=com.telecareus&hl=en&gl=US"> Android App</a>
+<a href="https://telecare.scriptrapps.io/mobileapp.html"> Download Mobile App</a>
   </h1>
   </button>
   </>
@@ -82,20 +82,6 @@ return (
 }
 
 
-function MyAppointment() {
-return (
-
-<>
-  <button>
-<h1>
-<a href="https://apps.apple.com/us/app/telecareus/id6444422512"> Apple App</a>
-  </h1>
-  </button>
-  </>
-
-);
-  
-}
 
 
 class App extends Component {
