@@ -4,6 +4,21 @@ import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
 import Amplify from 'aws-amplify';
 import aws_exports from './aws-exports';
 Amplify.configure(aws_exports);
+
+function MyRpmvideo() {
+return (
+
+<>
+  <button>
+<h1>
+<a href="https://telecare.scriptrapps.io/rpmvideo.html"> RPM Overview </a>
+  </h1>
+  </button>
+  </>
+  
+);
+
+
 function MyPortal() {
 return (
 
@@ -16,8 +31,12 @@ return (
   </>
   
 );
+
+
   
 }
+
+
 function MyDoctor() {
 return (
 
@@ -96,7 +115,7 @@ class App extends Component {
              TELECARE VIRTUAL CLINIC (TVC)
       
           </p>
-    
+      </MyRpmvideo />
       <h1>
       <a
             className="App-link"
