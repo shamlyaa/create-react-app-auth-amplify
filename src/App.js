@@ -93,7 +93,6 @@ class App extends Component {
       <MyDoctor />
       <MyRpm />
       <MyMobile />
-      <MyAppointment />
        <MyRpmvideo />
         <header className="App-header">
         
