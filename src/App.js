@@ -96,7 +96,7 @@ class App extends Component {
              TELECARE VIRTUAL CLINIC (TVC)
       
           </p>
-    <MyMobile />
+    
       <h1>
       <a
             className="App-link"
