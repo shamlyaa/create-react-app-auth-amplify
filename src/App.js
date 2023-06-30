@@ -108,14 +108,14 @@ class App extends Component {
       <MyRpm />
       <MyMobile />
       <MyAppointment />
-      
+       </MyRpmvideo />
         <header className="App-header">
         
           <p>
              TELECARE VIRTUAL CLINIC (TVC)
       
           </p>
-      </MyRpmvideo />
+    
       <h1>
       <a
             className="App-link"
