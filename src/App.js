@@ -65,8 +65,8 @@ function MyApple(){
   return (
     <>
 <br><h4 style="color:black"> Download our Mobile app </h4>
-	<a href="http://107.20.161.100/telemedon.apk"><img src="./assets/images/icon-androidBadge.png"></a>
-<a href="http://install.diawi.com/BKR9XW"><img src="./assets/images/icon-appleBadge.png"></a>
+	<a href="http://107.20.161.100/telemedon.apk">Android<img src="./assets/images/icon-androidBadge.png"></a>
+<a href="http://install.diawi.com/BKR9XW">Apple<img src="./assets/images/icon-appleBadge.png"></a>
                 </>
           );
 }
@@ -104,7 +104,7 @@ class App extends Component {
              TELECARE VIRTUAL CLINIC (TVC)
       
           </p>
-    
+    <MyApple />
       <h1>
       <a
             className="App-link"
