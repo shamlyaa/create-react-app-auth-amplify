@@ -77,7 +77,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://myqrcode.com/qr/e624c6cc"> QR Code</a>
+<a href="https://telecare.scriptrapps.io/rpmvideo.html">RPM Info</a>
   </h1>
   </button>
   </>
