@@ -71,7 +71,20 @@ return (
 
 
 
+function MyQrcode() {
+return (
 
+<>
+  <button>
+<h1>
+<a href="https://myqrcode.com/qr/e624c6cc"> QR Code</a>
+  </h1>
+  </button>
+  </>
+
+);
+  
+}
 class App extends Component {
   render() {
     return (
@@ -81,6 +94,7 @@ class App extends Component {
       <MyDoctor />
       <MyRpm />
       <MyMobile />
+      <MyQrcode />
         <header className="App-header">
         
           <p>
