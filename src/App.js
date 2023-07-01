@@ -5,19 +5,7 @@ import Amplify from 'aws-amplify';
 import aws_exports from './aws-exports';
 Amplify.configure(aws_exports);
 
-function MyRpmvideo() {
-return (
 
-<>
-  <button>
-<h1>
-<a href="https://telecare.scriptrapps.io/rpmvideo.html"> RPM Process </a>
-  </h1>
-  </button>
-  </>
-  
-);
-}
 
 function MyPortal() {
 return (
@@ -93,7 +81,6 @@ class App extends Component {
       <MyDoctor />
       <MyRpm />
       <MyMobile />
-       <MyRpmvideo />
         <header className="App-header">
         
           <p>
