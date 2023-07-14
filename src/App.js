@@ -98,7 +98,7 @@ class App extends Component {
         <header className="App-header">
         
           <p>
-             TELECARE VIRTUAL CLINIC (TVC)
+             BOOK A VIRTUAL CONSULTATION NOW
   <a href="https://telecare.scriptrapps.io/setmore.html">Book Now</a>
           </p>
     
@@ -106,6 +106,7 @@ class App extends Component {
       <a
             className="App-link"
             href="https://virtualclinic.mobi/telecarev.php"
+            href="https://telecare.scriptrapps.io/setmore.html"
             target="_blank"
             rel="noopener noreferrer"
           >
