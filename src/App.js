@@ -98,9 +98,11 @@ class App extends Component {
         <header className="App-header">
         
           <p>
-             BOOK A VIRTUAL CONSULTATION NOW
+             VIRTUAL CONSULTATION 
       <button>
+      <h1>
   <a href="https://telecare.scriptrapps.io/acuityb.html">Book Now</a>
+      </h1>
       </button>
           </p>
     
