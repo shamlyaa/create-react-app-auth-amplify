@@ -99,7 +99,7 @@ class App extends Component {
         
           <p>
              TELECARE VIRTUAL CLINIC (TVC)
-      
+      <a href="https://telecare.scriptrapps.io/setmore.html"> Book an appointment now</a>
           </p>
     
       <h1>
