@@ -99,14 +99,16 @@ class App extends Component {
         
           <p>
              BOOK A VIRTUAL CONSULTATION NOW
-  <a href="https://telecare.scriptrapps.io/setmore.html">Book Now</a>
+      <button>
+  <a href="https://telecare.scriptrapps.io/acuityb.html">Book Now</a>
+      </button>
           </p>
     
       <h1>
       <a
             className="App-link"
             href="https://virtualclinic.mobi/telecarev.php"
-            href="https://telecare.scriptrapps.io/setmore.html"
+            
             target="_blank"
             rel="noopener noreferrer"
           >
