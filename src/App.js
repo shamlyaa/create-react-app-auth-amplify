@@ -25,6 +25,25 @@ return (
 }
 
 
+function MyEMR() {
+return (
+
+<>
+  <button>
+<h1>
+<a href="https://3.238.199.158/interface/login/login.php?site=default"> EMR </a>
+  </h1>
+  </button>
+  </>
+  
+);
+
+
+  
+}
+
+
+
 function MyDoctor() {
 return (
 
@@ -95,6 +114,7 @@ class App extends Component {
       <MyRpm />
       <MyMobile />
       <MyQrcode />
+      <MyEMR />
         <header className="App-header">
         
           <p>
