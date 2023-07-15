@@ -88,7 +88,22 @@ return (
   
 }
 
+function MyMed() {
+return (
 
+<>
+  <button>
+<h1>
+<a href="https://telecare.carenehr.com/public/signin"> Med Monitor&Alerts</a>
+  </h1>
+  </button>
+  </>
+  
+);
+
+
+  
+}
 
 function MyQrcode() {
 return (
@@ -112,6 +127,7 @@ class App extends Component {
       <MyPortal />
       <MyDoctor />
       <MyRpm />
+      <MyMed />
       <MyMobile />
       <MyQrcode />
       <MyEMR />
