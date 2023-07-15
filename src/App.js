@@ -134,11 +134,7 @@ class App extends Component {
         <header className="App-header">
         
           <p>
-       <button>
-      <h2>
-  <a href="https://telecare.scriptrapps.io/mobileapp.html">Download Mobile APP <--</a>
-      </h2>
-      </button>
+    
              VIRTUAL CONSULTATION -->
       <button>
       <h2>
