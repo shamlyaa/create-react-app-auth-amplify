@@ -127,10 +127,10 @@ class App extends Component {
       <MyPortal />
       <MyRpm />
       <MyMed />
-      <MyMobile />
+      <MyEMR />
        <MyDoctor />
       <MyQrcode />
-      <MyEMR />
+       <MyMobile />
         <header className="App-header">
         
           <p>
