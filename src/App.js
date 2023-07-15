@@ -125,10 +125,10 @@ class App extends Component {
       <div className="App">
         <AmplifySignOut />
       <MyPortal />
-      <MyDoctor />
       <MyRpm />
       <MyMed />
       <MyMobile />
+       <MyDoctor />
       <MyQrcode />
       <MyEMR />
         <header className="App-header">
