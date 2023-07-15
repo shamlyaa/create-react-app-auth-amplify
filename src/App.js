@@ -136,7 +136,7 @@ class App extends Component {
           <p>
        <button>
       <h2>
-  <a href="https://telecare.scriptrapps.io/mobileapp.html">Book Now</a>
+  <a href="https://telecare.scriptrapps.io/mobileapp.html">Mobile</a>
       </h2>
       </button>
              <--VIRTUAL CONSULTATION -->
