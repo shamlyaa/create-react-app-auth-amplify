@@ -31,7 +31,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://3.238.199.158/interface/login/login.php?site=default"> EMR </a>
+<a href="https://static.practicefusion.com/apps/ehr/index.html#/login"> EMR </a>
   </h1>
   </button>
   </>
