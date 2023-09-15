@@ -59,6 +59,22 @@ return (
   
 }
 
+
+function MyDevices() {
+return (
+
+<>
+  <button>
+<h1>
+<a href="https://portal.smartmeterrpm.com/login">Order Devices </a>
+  </h1>
+  </button>
+  </>
+  
+);
+  
+}
+
 function MyRpm() {
 return (
 
@@ -131,6 +147,7 @@ class App extends Component {
        <MyDoctor />
       <MyQrcode />
        <MyMobile />
+      <MyDevices />
         <header className="App-header">
         
           <p>
