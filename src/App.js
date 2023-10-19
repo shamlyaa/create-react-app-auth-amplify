@@ -13,7 +13,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Patient </a>
+<a href="https://virtualclinic.mobi/telecareus/frontend/site/login">Patient </a>
   </h1>
   </button>
   </>
@@ -81,7 +81,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://app.kareo.com/login-ui/#/partners/tebra"> Billing </a>
+<a href="https://app.kareo.com/login-ui/#/partners/tebra">Billing </a>
   </h1>
   </button>
   </>
