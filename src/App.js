@@ -110,7 +110,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://telecare.carenehr.com/public/signin"> Med Monitor&Alerts</a>
+<a href="https://telecare.carenehr.com/public/signin"> Med Alerts</a>
   </h1>
   </button>
   </>
