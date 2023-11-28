@@ -77,22 +77,7 @@ return (
   
 }
 
-function MyMed() {
-return (
 
-<>
-  <button>
-<h1>
-<a href="https://telecare.carenehr.com/public/signin">Caren</a>
-  </h1>
-  </button>
-  </>
-  
-);
-
-
-  
-}
 
 
 class App extends Component {
@@ -100,9 +85,9 @@ class App extends Component {
     return (
       <div className="App">
         <AmplifySignOut />
-      <MyPortal />
       
-      <MyMed />
+      
+    
       <MyEMR />
        <MyPortal />
        
