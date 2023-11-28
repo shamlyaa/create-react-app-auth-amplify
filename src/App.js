@@ -44,9 +44,6 @@ return (
 
 
 
-
-
-
 function MyDevices() {
 return (
 
