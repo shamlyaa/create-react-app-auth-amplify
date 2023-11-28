@@ -68,7 +68,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://telecare.scriptrapps.io/mobileapp.html">Mobile App</a>
+  <a href="https://telecare.carenehr.com/public/signin">Mobile App</a>
   </h1>
   </button>
   </>
@@ -104,6 +104,7 @@ class App extends Component {
       
       <MyMed />
       <MyEMR />
+       <MyPortal />
        
        <MyMobile />
       <MyDevices />
