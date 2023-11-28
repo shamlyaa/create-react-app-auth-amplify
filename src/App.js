@@ -13,7 +13,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://virtualclinic.mobi/telecareus/frontend/site/login">Patient </a>
+<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Telecare Portal</a>
   </h1>
   </button>
   </>
@@ -31,7 +31,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://static.practicefusion.com/apps/ehr/index.html#/login"> EMR </a>
+<a href="https://static.practicefusion.com/apps/ehr/index.html#/login">Practice Fusion </a>
   </h1>
   </button>
   </>
@@ -44,20 +44,7 @@ return (
 
 
 
-function MyDoctor() {
-return (
 
-<>
-  <button>
-<h1>
-<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Doctor </a>
-  </h1>
-  </button>
-  </>
-  
-);
-  
-}
 
 
 function MyDevices() {
@@ -75,20 +62,6 @@ return (
   
 }
 
-function MyRpm() {
-return (
-
-<>
-  <button>
-<h1>
-<a href="https://app.kareo.com/login-ui/#/partners/tebra">Billing </a>
-  </h1>
-  </button>
-  </>
-
-);
-  
-}
 function MyMobile() {
 return (
 
@@ -110,7 +83,7 @@ return (
 <>
   <button>
 <h1>
-<a href="https://telecare.carenehr.com/public/signin"> Med-Alerts</a>
+<a href="https://telecare.carenehr.com/public/signin">Caren</a>
   </h1>
   </button>
   </>
@@ -121,31 +94,17 @@ return (
   
 }
 
-function MyQrcode() {
-return (
 
-<>
-  <button>
-<h1>
-<a href="https://telecare.scriptrapps.io/rpmvideo.html">RPM Info</a>
-  </h1>
-  </button>
-  </>
-
-);
-  
-}
 class App extends Component {
   render() {
     return (
       <div className="App">
         <AmplifySignOut />
       <MyPortal />
-      <MyRpm />
+      
       <MyMed />
       <MyEMR />
-       <MyDoctor />
-      <MyQrcode />
+       
        <MyMobile />
       <MyDevices />
         <header className="App-header">
