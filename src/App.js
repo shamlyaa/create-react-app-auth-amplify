@@ -105,7 +105,7 @@ class App extends Component {
       <h1>
       <a
             className="App-link"
-            href="https://telecare.scriptrapps.io/vsee.html"
+            href="https://telecare.scriptrapps.io/vsee.html/"
             
             target="_blank"
             rel="noopener noreferrer"
