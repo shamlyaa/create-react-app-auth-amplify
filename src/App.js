@@ -42,7 +42,22 @@ return (
   
 }
 
+function MyVideo() {
+return (
 
+<>
+  <button>
+<h1>
+<a href=""https://telecare.scriptrapps.io/vsee.html/">Video Consult </a>
+  </h1>
+  </button>
+  </>
+  
+);
+
+
+  
+}
 
 function MyDevices() {
 return (
@@ -87,7 +102,7 @@ class App extends Component {
     
       <MyEMR />
        <MyPortal />
-       
+       <MyVideo />
        <MyMobile />
       <MyDevices />
         <header className="App-header">
