@@ -24,6 +24,22 @@ return (
   
 }
 
+function MyPortal() {
+return (
+
+<>
+  <button>
+<h1>
+<a href="https://virtualclinic.mobi/telecareus/frontend/site/login"> Telecare Portal</a>
+  </h1>
+  </button>
+  </>
+  
+);
+
+
+  
+}
 
 function MyEMR() {
 return (
@@ -74,7 +90,20 @@ return (
   
 }
 
+function MyVid() {
+return (
 
+<>
+  <button>
+<h1>
+  <a href="href="https://telecare.scriptrapps.io/vsee.html/">MyVideo</a>
+  </h1>
+  </button>
+  </>
+
+);
+  
+}
 
 
 class App extends Component {
