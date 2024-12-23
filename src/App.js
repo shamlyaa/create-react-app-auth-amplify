@@ -42,13 +42,13 @@ return (
   
 }
 
-function MyVideo() {
+function MyVid() {
 return (
 
 <>
   <button>
 <h1>
-<a href=""https://telecare.scriptrapps.io/vsee.html/">Video Consult </a>
+<a href=""https://telecare.scriptrapps.io/vsee.html/">My Vi </a>
   </h1>
   </button>
   </>
@@ -102,7 +102,7 @@ class App extends Component {
     
       <MyEMR />
        <MyPortal />
-       <MyVideo />
+       <MyVid />
        <MyMobile />
       <MyDevices />
         <header className="App-header">
